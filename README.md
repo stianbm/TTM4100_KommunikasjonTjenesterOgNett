@@ -1,2 +1,2 @@
 # TTM4100_KommunikasjonTjenesterOgNett
-Code for NTNU subject
+Python36 code for NTNU subject
